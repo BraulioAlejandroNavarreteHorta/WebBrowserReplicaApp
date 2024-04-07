@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TDMPA_2P_PR03</string>
+    <string-array name="sitios">
+        <item>www.apple.com</item>
+        <item>aws.amazon.com/es/</item>
+        <item>www.facebook.com</item>
+        <item>github.com</item>
+        <item>www.google.com.mx</item>
+        <item>www.microsoft.com/es-mx/</item>
+        <item>www.xbox.com/es-MX</item>
+        <item>www.playstation.com/es-mx/</item>
+        <item>www.twitch.tv</item>
+        <item>www.whatsapp.com/?lang=es_LA</item>
+    </string-array>
+</resources>
